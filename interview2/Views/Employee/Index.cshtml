@@ -1,0 +1,40 @@
+﻿@model IEnumerable<interview2.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2>Employee List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">+ Add New Employee</a>
+</p>
+
+<table class="table table-bordered table-striped mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Full Name</th>
+            <th>Position</th>
+            <th>Salary</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.ID</td>
+                <td>@emp.NAME</td>
+                <td>@emp.POSITION</td>
+                <td>@emp.SALARY</td>
+                <td>@emp.DEPARTMENT</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@emp.ID" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@emp.ID" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
