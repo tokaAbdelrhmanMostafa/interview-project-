@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\interview\\interview2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|d:\\interview\\interview2\\interview2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC15B3A-B1A9-40D4-8BC9-22050DED0028}|interview2\\interview2.csproj|solutionrelative:interview2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,64 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Delete.cshtml",
-              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Delete.cshtml",
-              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Delete.cshtml",
-              "RelativeToolTip": "interview2\\Views\\Employee\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T07:12:22.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "interview2\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T07:11:49.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "interview2\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T07:11:07.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Program.cs",
-              "RelativeDocumentMoniker": "interview2\\Program.cs",
-              "ToolTip": "D:\\interview\\interview2\\interview2\\Program.cs",
-              "RelativeToolTip": "interview2\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:40:57.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -122,20 +66,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "interview2\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T07:12:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "interview2\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T07:11:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "interview2\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T07:11:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Program.cs",
+              "RelativeDocumentMoniker": "interview2\\Program.cs",
+              "ToolTip": "D:\\interview\\interview2\\interview2\\Program.cs",
+              "RelativeToolTip": "interview2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:40:57.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "interview2\\Views\\Employee\\Index.cshtml",
               "ToolTip": "D:\\interview\\interview2\\interview2\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "interview2\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T06:44:05.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "interview2\\Models\\Employee.cs",
@@ -148,20 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\interview\\interview2\\interview2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "interview2\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\interview\\interview2\\interview2\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "interview2\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAJoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T06:41:31.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\interview\\interview2\\interview2\\appsettings.json",
               "RelativeDocumentMoniker": "interview2\\appsettings.json",

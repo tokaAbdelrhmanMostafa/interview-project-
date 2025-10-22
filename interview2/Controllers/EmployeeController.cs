@@ -1,6 +1,6 @@
 ﻿using interview2.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Data.SqlClient; // ✅ استخدم المكتبة الحديثة بدل System.Data.SqlClient
+using Microsoft.Data.SqlClient; 
 using System.Collections.Generic;
 
 namespace interview2.Controllers
@@ -14,7 +14,6 @@ namespace interview2.Controllers
             _connectionString = configuration.GetConnectionString("EmployeeDBConnection") ?? throw new ArgumentNullException("Connection string not found!");
         }
 
-        // ✅ READ - عرض جميع الموظفين
         public IActionResult Index()
         {
             List<Employee> EMPLOYEE = new List<Employee>();
@@ -48,7 +47,7 @@ namespace interview2.Controllers
             return View();
         }
 
-        // ✅ CREATE - تنفيذ الإضافة
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Employee emp)
@@ -73,7 +72,7 @@ namespace interview2.Controllers
             return View(emp);
         }
 
-        // ✅ UPDATE - عرض صفحة تعديل موظف
+        
         [HttpGet]
         public IActionResult Edit(int id)
         {
@@ -99,7 +98,7 @@ namespace interview2.Controllers
             return View(emp);
         }
 
-        // ✅ UPDATE - تنفيذ التعديل
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Employee emp)
@@ -127,7 +126,7 @@ namespace interview2.Controllers
             return View(emp);
         }
 
-        // ✅ DELETE - تأكيد الحذف (عرض)
+       
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -153,7 +152,7 @@ namespace interview2.Controllers
             return View(emp);
         }
 
-        // ✅ DELETE - تنفيذ الحذف
+       
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
